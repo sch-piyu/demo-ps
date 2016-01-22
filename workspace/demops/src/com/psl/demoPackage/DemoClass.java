@@ -9,6 +9,7 @@ public class DemoClass {
 		// TODO Auto-generated method stub
 
 		System.out.println("scheweta");
+		System.out.println("scheweta7789");
 	}
 
 }
